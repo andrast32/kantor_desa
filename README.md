@@ -1,6 +1,8 @@
 untuk akses website ini silahkan install xampp dan pastikan apache dan mysql sudah aktif
 <br>
+<br>
 lalu copy folder ini ke c/xampp/htdoc/
+<br>
 <br>
 pada web browser ketik localhost/phpmyadmin/
 <br>
